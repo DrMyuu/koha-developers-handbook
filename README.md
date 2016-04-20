@@ -9,6 +9,7 @@ Welcome to the Koha Developer's Handbook. I hope this handbook will be of assist
 2. User Interface
   1. HTML
     1. Form Markup
+    2. Toolbar Markup
   2. JavaScript
     1. String Translation
     2. Form Validation
