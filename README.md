@@ -9,5 +9,9 @@ Welcome to the Koha Developer's Handbook. I hope this handbook will be of assist
 2. User Interface
   1. HTML
   2. JavaScript
+    1. String Translation
+    2. Form Validation
   3. CSS
+    1. Updating OPAC CSS
+    2. Adding icons
 3. Database
