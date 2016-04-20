@@ -6,6 +6,8 @@ Welcome to the Koha Developer's Handbook. I hope this handbook will be of assist
 1. Perl
   1. Scripts
   2. Modules
-2. HTML
-3. JavaScript
-4. CSS
+2. User Interface
+  1. HTML
+  2. JavaScript
+  3. CSS
+3. Database
